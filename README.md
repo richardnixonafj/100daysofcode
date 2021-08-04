@@ -9,7 +9,7 @@
 - Variable naming
 - Day 1 Project: Band Name Generator
 #
-- [ ] Day 02/100 - 02/08/2021
+- [X] Day 02/100 - 02/08/2021
 - Python primitive Data Types
 - Type Error, Type Checking and Type Conversion
 - Mathematical Operations in Python
@@ -17,3 +17,16 @@
 - Number Manipulation and F Strings in Python
 - Life in Weeks
 - Day 2 Project: Tip Calculator
+#
+- [ ] Day 03/100 - 03/08/2021
+- Control Flow with if / else
+- Nested if statements and elif
+- BMI 2.0
+- Leap Year
+- Multiple if Statements in Succesion
+- Pizza Order Practice
+- Logical Operators
+- Love Calculator
+- Day 3 Project: Treasure Island
+#
+- [ ] Day 04/100 - 04/08/2021
