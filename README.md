@@ -18,7 +18,7 @@
 - Life in Weeks
 - Day 2 Project: Tip Calculator
 #
-- [ ] Day 03/100 - 03/08/2021
+- [X] Day 03/100 - 03/08/2021
 - Control Flow with if / else
 - Nested if statements and elif
 - BMI 2.0
@@ -30,3 +30,9 @@
 - Day 3 Project: Treasure Island
 #
 - [ ] Day 04/100 - 04/08/2021
+- Random Module
+- Understanding the offset and appending items to lists
+- banker rouletter
+- IndexErrors and Working with Nested Lists
+- Treasure Map
+- Day 4 Project: Rock Paper Scissors
