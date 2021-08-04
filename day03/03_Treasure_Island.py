@@ -20,5 +20,26 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_____ /
 *******************************************************************************
 ''')
+
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.") 
+
+direction = str(input("where are you go? 'left' or 'right' ?"))
+
+if direction == "right":
+    print("Fall into a hole. Game Over")
+else:
+    first_round = str(input("'Swin' or 'wait'?"))
+    if first_round == "swim":
+        print("Attacked by octopus. Game Over")
+    else:
+        second_round = str(input("Which door? 'Red', 'Blue', 'Yellow' or 'Anything else'"))
+        if second_round == "red":
+            print("Burned by fire. Game Over.")
+        elif second_round == "blue":
+            print("Eaten by beasts. Game over")
+        elif second_round == "yellow":
+            print("You Win!")
+        else:
+            print("Game Over!")
+
