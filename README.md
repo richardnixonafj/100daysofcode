@@ -29,10 +29,16 @@
 - Love Calculator
 - Day 3 Project: Treasure Island
 #
-- [ ] Day 04/100 - 04/08/2021
+- [X] Day 04/100 - 04/08/2021
 - Random Module
 - Understanding the offset and appending items to lists
 - banker rouletter
 - IndexErrors and Working with Nested Lists
 - Treasure Map
 - Day 4 Project: Rock Paper Scissors
+#
+- [ ] Day 05/100 - <s>05/08/2021</s> 09/08/2021
+- Using the for loop with python lists
+- for loops and the range() function
+- The FizzBuzz Job Interview
+- Day 5 Project: Password Generator
